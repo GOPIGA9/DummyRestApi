@@ -1,6 +1,6 @@
 [{
-id:"1"
-device_name:"Med Tech 10",
-device_serial_no:"1001",
-device_decsription:"Med Tech 10 is for cardic"
+"id":1
+"device_name":"Med Tech 10",
+"device_serial_no":"1001",
+"device_decsription":"Med Tech 10 is for cardic"
 }]
