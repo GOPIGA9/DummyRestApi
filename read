@@ -1,33 +1,34 @@
 [{
-id:"1"
-device_name:"Med Tech 10",
-device_serial_no:"1001",
-device_decsription:"Med Tech 10 is for cardic"
+"id":1
+"device_name":"Med Tech 10",
+"device_serial_no":"1001",
+"device_decsription":"Med Tech 10 is for cardic"
 },
 {
-id:"2"
-device_name:"Med Tech 12",
-device_serial_no:"1001",
-device_decsription:"Med Tech 10 is for cardic"
+"id":2
+"device_name":"Med Tech 12",
+"device_serial_no":"1001",
+"device_decsription":"Med Tech 10 is for cardic"
 },{
-id:"3"
-device_name:"Med Tech 13",
-device_serial_no:"1001",
-device_decsription:"Med Tech 10 is for cardic"
+"id":3
+"device_name":"Med Tech 13",
+"device_serial_no":"1001",
+"device_decsription":"Med Tech 10 is for cardic"
 },{
-id:"4"
-device_name:"Med Tech 14",
-device_serial_no:"1001",
-device_decsription:"Med Tech 10 is for cardic"
+"id":4
+"device_name":"Med Tech 14",
+"device_serial_no":"1001",
+"device_decsription":"Med Tech 10 is for cardic"
 },{
-id:"5"
-device_name:"Med Tech 15",
-device_serial_no:"1001",
-device_decsription:"Med Tech 10 is for cardic"
-},{
-id:"6"
-device_name:"Med Tech 6",
-device_serial_no:"1001",
-device_decsription:"Med Tech 10 is for cardic"
+"id":5
+"device_name":"Med Tech 15",
+"device_serial_no":"1001",
+"device_decsription":"Med Tech 10 is for cardic"
+},
+{
+"id":6
+"device_name":"Med Tech 16",
+"device_serial_no":"1001",
+"device_decsription":"Med Tech 10 is for cardic"
 }
 ]
